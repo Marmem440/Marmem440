@@ -15,13 +15,13 @@
         <h2>Вложения</h2>
         <!-- Первое изображение -->
         <figure>
-            <img src="pic\[арефьева.docx](https://github.com/user-attachments/files/17969402/default.docx)" alt="Первое изображение" style="width:80%;">
+            <img src="pic\Арина 2.PNG" alt="Первое изображение" style="width:80%;">
             <figcaption>Вложение 1</figcaption>
         </figure>
 
         <!-- Второе изображение -->
         <figure>
-            <img src="pic\![Арина 2](https://github.com/user-attachments/assets/9c725cc8-ac72-4d53-9f0c-aafbe1d60018)" alt="Второе изображение" style="width:80%;">
+            <img src="pic\арина.PNG" alt="Второе изображение" style="width:80%;">
             <figcaption>Вложение 2</figcaption>
         </figure>
     </main>
