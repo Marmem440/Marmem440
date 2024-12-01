@@ -28,9 +28,3 @@
 </body>
 </html>
 
-
-https://github.com/user-attachments/assets/f62e7567-b323-4ed6-a20f-bff5a7d58a41
-
-![Арина 2](https://github.com/user-attachments/assets/9c725cc8-ac72-4d53-9f0c-aafbe1d60018)
-
-[арефьева.docx](https://github.com/user-attachments/files/17969402/default.docx)
